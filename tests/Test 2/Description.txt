@@ -1,0 +1,5 @@
+Test 1 :
+
+Ce test vise à confirmer l'exactitude de la sortie lorsque le fichier de log contient plus de 10 pages 
+cibles dans le contexte de l'utilisation par défaut de l'application. 
+Il examine également la véracité du classement des pages selon un ordre décroissant en termes de hits.

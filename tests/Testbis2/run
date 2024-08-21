@@ -1,0 +1,2 @@
+rm -f fichierTest2.dot;
+../../bin/analog -g fichierTest2.dot test2.log

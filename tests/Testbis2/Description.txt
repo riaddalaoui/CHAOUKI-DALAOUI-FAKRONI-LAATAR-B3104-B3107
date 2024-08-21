@@ -1,0 +1,5 @@
+Test 2 :
+
+Ce test permet de confirmer la précision de la sortie lorsqu'on applique correctement la commande -g. 
+Il s'assure ainsi de la génération correcte du fichier .dot et de l'affichage approprié du top 10. 
+Il contrôle également que les hits sont présentés dans un ordre décroissant.

@@ -1,0 +1,6 @@
+Test 1 : 
+
+Ce test vise à confirmer la précision du programme lorsqu'un utilisateur 
+spécifie le nom d'un fichier .log qui est vide. 
+L'objectif est de s'assurer que le programme détecte cette condition, 
+génère un message d'erreur approprié, et se ferme correctement.
